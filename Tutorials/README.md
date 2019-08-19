@@ -7,3 +7,7 @@
 1.  <font color=red >**[Linux]**</font>  [更新gcc版本至最新](/Tutorials/升级gcc\g++.md)，这个是我在 Linux-Mint 18.3 遇到的，想用 gcc7.4 ，只能手动升级。
 
 2.   <font color=red >**[Linux]**</font> [编译 BoostLibrary for Android](/Tutorials/编译Boost_for_Android.md) 流程。
+
+3.  <font color=red >**[Linux]**</font> [编译Boost](/Tutorials/Linux编译Boost.md)
+
+4.  <font color=red >**[Linux]**</font>[编译OpenCV](/Tutorials/Linux编译OpenCV.md)
