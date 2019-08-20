@@ -10,4 +10,4 @@
 
 3.  <font color=red >**[Linux]**</font> [编译Boost](/Tutorials/Linux编译Boost.md)
 
-4.  <font color=red >**[Linux]**</font>[编译OpenCV](/Tutorials/Linux编译OpenCV.md)
+4.  <font color=red >**[Linux]**</font> [编译OpenCV](/Tutorials/Linux编译OpenCV.md)

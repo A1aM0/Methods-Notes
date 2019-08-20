@@ -6,7 +6,7 @@
 > 
 > 编译其他版本的 OpenCV 只需要改版本号就行
 
-1. [OpenCV 官网](https://opencv.org/)下载源码
+1. <a href="https://opencv.org/" target="_blank"> OpenCV 官网 </a> 下载源码
 
 2. 解压源码，进入解压后的文件夹 `cd opencv-4.1.0/`
 

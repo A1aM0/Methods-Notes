@@ -6,7 +6,7 @@
 > 
 > 编译其他版本的 boost 只需要改版本号就行
 
-1. [Boost 官网](https://www.boost.org/)下载源码
+1. <a href="https://www.boost.org/" target="_blank"> Boost 官网 </a> 下载源码
 
 2. 解压 tar.gz 到当前文件夹，`tar -xvf boost_1_69_0.tar.gz`
 
