@@ -2,7 +2,7 @@
 
 > 我的环境：
 > 
-> Linux-Mint 18.3 下编译 Boost 1.69.0
+> Linux-Mint 18.3 下编译 Boost 1.69.0，编译工具gcc 7.4
 > 
 > 编译其他版本的 boost 只需要改版本号就行
 
