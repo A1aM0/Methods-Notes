@@ -14,7 +14,7 @@
 
 4. 加权限 `chmod 777 bootstrap.sh`
 
-5. `./bootstrap.sh --with-libries=all --with-toolset=gcc`
+5. `./bootstrap.sh --with-libraries=all --with-toolset=gcc`
 
 6. `./b2 toolset=gcc`
 
