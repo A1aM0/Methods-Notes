@@ -12,4 +12,4 @@
 
 5. <font color=red >**[Linux]**</font> [Matlab toolbox 安装](/Notes/Matlab添加工具箱权限问题.md)时会遇到权限问题
 
-6. <font color=red >**[QML]**</font> [移动设备UI分辨率问题](/Notes/Linux编译OpenCV.md)，在电脑上显示合适的配置放在手机上显示效果是不好的，需要加以适配
+6. <font color=red >**[QML]**</font> [移动设备UI分辨率问题](/Notes/移动端app开发UI自适应问题.md)，在电脑上显示合适的配置放在手机上显示效果是不好的，需要加以适配
