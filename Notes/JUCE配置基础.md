@@ -20,10 +20,10 @@ Jules' Utility Class Extensions（JUCE）是基于 **c++** 的跨平台应用程
 下载到本地并解压，官网建议将解压后的“JUCE”文件夹放在“home folder”。
 ![Linux解压压缩包](img/Linux下解压JUCE.png)
 
-Linux下编译JUCE库所需要的依赖：g++，libfreetype6-dev，libx11-dev，libxinerama-dev，libxrandr-dev，libxcursor-dev，mesa-common-dev，libasound2-dev，freeglut3-dev，libxcomposite-dev，webkit2gtk-4.0-dev，libcurl4，libcurl4-openssl-dev
+Linux下编译JUCE库所需要的依赖：g++，libfreetype6-dev，libx11-dev，libxinerama-dev，libxrandr-dev，libxcursor-dev，mesa-common-dev，libasound2-dev，freeglut3-dev，libxcomposite-dev，webkit2gtk-4.0-dev，libcurl4，libcurl4-openssl-dev，ladspa-sdk
 
 ```shell
-sudo apt install g++ libfreetype6-dev libx11-dev libxinerama-dev libxrandr-dev libxcursor-dev mesa-common-dev libasound2-dev freeglut3-dev libxcomposite-dev webkit2gtk-4.0-dev  libcurl4 libcurl4-openssl-dev
+sudo apt install g++ libfreetype6-dev libx11-dev libxinerama-dev libxrandr-dev libxcursor-dev mesa-common-dev libasound2-dev freeglut3-dev libxcomposite-dev webkit2gtk-4.0-dev  libcurl4 libcurl4-openssl-dev ladspa-sdk
 ```
 
 进入JUCE文件夹
