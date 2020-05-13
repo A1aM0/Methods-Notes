@@ -15,4 +15,4 @@
 6. <font color=red >**[QML]**</font> [移动设备UI分辨率问题](/Notes/移动端app开发UI自适应问题.md)，在电脑上显示合适的配置放在手机上显示效果是不好的，需要加以适配
 
 7. <font color=red >**[Linux、Windows、Mac]**</font> [JUCE跨平台C++类库配置](JUCE配置基础.md)
-8. **网络**[CRC基本原理](CRC校验基础.md)
+8. **[网络]** [CRC基本原理](CRC校验基础.md)
