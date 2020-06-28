@@ -4,7 +4,7 @@
 
 ```
 sudo apt-get install -y software-properties-common
-sudo apt-get-repository ppa:ubuntu-toolchain-r/test
+sudo apt-add-repository ppa:ubuntu-toolchain-r/test
 sudo apt update
 sudo apt install g++-7 -y
 ```
